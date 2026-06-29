@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc070/tls/v1/juan/15
+seq: 15
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 勾股六術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc070.xml
+hash: sha256:c30f8a2078e4aa3f7e075efa79a10b8e49df756d019367034e95c7b1d17e2308

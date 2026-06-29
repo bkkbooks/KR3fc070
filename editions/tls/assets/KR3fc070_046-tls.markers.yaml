@@ -1,0 +1,47 @@
+canonical_identifier: bkk:krp/KR3fc070/tls/v1/markers/46
+seq: 46
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc070_tls_001-p23.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup21, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR3fc070_tls_001-p23.s2}
+  - {type: line-break, offset: 20, content: '', id: KX_2_dup23, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 40, content: '', id: KR3fc070_tls_001-p23.s3}
+  - {type: line-break, offset: 40, content: '', id: KX_3_dup23, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 60, content: '', id: KR3fc070_tls_001-p23.s4}
+  - {type: line-break, offset: 60, content: '', id: KX_4_dup23, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: 'tls:seg', offset: 65, content: '', id: KR3fc070_tls_001-p23.s5}
+  - {type: line-break, offset: 65, content: '', id: KX_5_dup23, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: 'tls:seg', offset: 85, content: '', id: KR3fc070_tls_001-p23.s6}
+  - {type: line-break, offset: 85, content: '', id: KX_6_dup23, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: 'tls:seg', offset: 105, content: '', id: KR3fc070_tls_001-p23.s7}
+  - {type: line-break, offset: 105, content: '', id: KX_7_dup23, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: 'tls:seg', offset: 122, content: '', id: KR3fc070_tls_001-p23.s8}
+  - {type: line-break, offset: 122, content: '', id: KX_8_dup23, _xml_error: duplicate-id, _xml_original_id: KX_8}
+  - {type: 'tls:seg', offset: 139, content: '', id: KR3fc070_tls_001-p23.s9}
+  - {type: line-break, offset: 139, content: '', id: KX_9_dup23, _xml_error: duplicate-id, _xml_original_id: KX_9}
+  - {type: 'tls:seg', offset: 156, content: '', id: KR3fc070_tls_001-p23.s10}
+  - {type: line-break, offset: 156, content: '', id: KX_10_dup23, _xml_error: duplicate-id, _xml_original_id: KX_10}
+  - {type: 'tls:seg', offset: 173, content: '', id: KR3fc070_tls_001-p23.s12}
+  - {type: line-break, offset: 173, content: '', id: KX_12_dup23, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 190, content: '', id: KR3fc070_tls_001-p23.s13}
+  - {type: line-break, offset: 190, content: '', id: KX_13_dup23, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 207, content: '', id: KR3fc070_tls_001-p23.s14}
+  - {type: line-break, offset: 207, content: '', id: KX_14_dup23, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 224, content: '', id: KR3fc070_tls_001-p23.s15}
+  - {type: line-break, offset: 224, content: '', id: KX_15_dup23, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 237, content: '', id: KR3fc070_tls_001-p23.s16}
+  - {type: line-break, offset: 237, content: '', id: KX_16_dup23, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 257, content: '', id: KR3fc070_tls_001-p23.s17}
+  - {type: line-break, offset: 257, content: '', id: KX_17_dup23, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 274, content: '', id: KR3fc070_tls_001-p23.s18}
+  - {type: line-break, offset: 274, content: '', id: KX_18_dup23, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 291, content: '', id: KR3fc070_tls_001-p23.s19}
+  - {type: line-break, offset: 291, content: '', id: KX_19_dup23, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 311, content: '', id: KR3fc070_tls_001-p23.s20}
+  - {type: line-break, offset: 311, content: '', id: KX_20_dup23, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 320, content: '', id: KR3fc070_tls_001-p23.s21}
+  - {type: line-break, offset: 320, content: '', id: KX_21_dup21, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  back: []
+hash: sha256:6ea68ffeff828ba3ae927cc1ecd2887dd149d714c8c0d4958a339273fa5b8087

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc070/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附題有勾有勾股較求股弦法以勾與勾股較相加爲股有勾有勾股和求股弦法以勾與勾股和相減爲股有股有勾股較求勾弦法以股與勾股較相減爲勾有股有勾股和求勾弦法以股與勾股和相減爲勾有勾股較有勾股和求勾股弦法以勾股較勾股和相減折半爲勾相加折半爲股以上五題加減之皆可得勾與股迺以第一術第一題求弦法算之有勾有勾弦較求股弦法以勾與勾弦較相加爲弦有勾有勾弦和求股弦法以勾與勾弦和相減爲弦有弦有勾弦較求勾股法以弦與勾弦較相減爲勾有弦有勾弦和求勾股
+  hash: sha256:54e40f0f66894821201bb03de075a508a8fbfb1c60339a8678e80f21890f4f52
+metadata:
+  title: 勾股六術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc070.xml
+hash: sha256:8891c19b25647bbaf3d6bb76b71f238e3764b6e3fdd9beb93ab544fd30a673ad

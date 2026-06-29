@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc070/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之得勾股和和較相加折半為股相減折半為勾第二題有弦有勾股和求勾股法以弦自乘倍之與勾股和自乘相減為實平方開之得勾股較和較相加折半為股相減折半為勾第三術第一題有勾有股弦較求股弦法以勾自乘為實股弦較為法除之得股弦和和較相加折半為弦相減折半為股第二題有勾有股弦和求股弦法以勾自乘為實股弦和為法除之得股弦較和較相加折半為弦相減折半為股第三題有股有勾弦較求勾弦法以股自乘為實勾弦較為法除之得勾弦和和較相加折半為弦相減折半為勾第四題有股有勾弦和求勾弦
+  hash: sha256:ede84ceca3e5a33ac1fe915c04ea73d45a2f1e13888ff5f4912e82ffd9f19abb
+metadata:
+  title: 勾股六術
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc070.xml
+hash: sha256:5b992fa000e677762eb1a3757070457be17675d57c76100dedbd541b6f06b640
